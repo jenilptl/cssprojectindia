@@ -1,0 +1,92 @@
+.navbar{
+    background-color: blueviolet;
+    position: fixed;
+    top: 5px;
+    width: 1210px;
+}
+
+.navbar ul{
+    display: flex;
+}
+
+.navbar ul li{
+    list-style: none;
+    padding-left: 120px;
+    font-size: 28px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+}
+
+.heading {
+    margin-top: 100px;
+    text-align: center;
+    background-color: green;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+.discover {
+    background-color: darkcyan;
+}
+
+.head1 {
+    text-align: center;
+    background-color: goldenrod;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
+
+.festival {
+    background-color: indianred;
+}
+
+.diwali {
+    margin-left: 350px;
+}
+
+.head2 {
+    text-align: center;
+    background-color: chocolate;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+.language {
+    background-color: darkred;
+}
+
+.popular {
+    float: right;
+    background-color: burlywood;
+    padding-right: 8px;
+}
+
+.region {
+    float: right;
+    color: white;
+    background-color: indigo;
+}
+
+.tradition {
+    text-align: center;
+    background-color: mediumslateblue;
+    width: 1000px;
+    text-decoration: underline;
+    /* margin-top: 190px; */
+}
+
+.cloth {
+    background-color: deeppink;
+    width: 1000px;
+}
+
+.saree {
+    margin-left: 350px;
+}
+
+.footer {
+    background-color: cyan;
+    text-align: center;
+}
