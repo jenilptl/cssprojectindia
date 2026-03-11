@@ -1,0 +1,86 @@
+.navbar{
+    background-color: orange;
+    position: fixed;
+    top: 5px;
+    width: 1210px;
+}
+
+.navbar ul{
+    display: flex;
+}
+
+.navbar ul li{
+    list-style: none;
+    padding-left: 120px;
+    font-size: 28px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+}
+
+.famous {
+    margin-top: 100px;
+    text-align: center;
+    background-color: red;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+
+.explore {
+    background-color: grey;
+}
+
+.iconic {
+    text-align: center;
+    background-color: cadetblue;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
+
+.landmark {
+    color: gainsboro;
+    background-color: darkorchid;
+}
+
+.redfort {
+    margin-left: 734px;
+}
+
+.state {
+    text-align: center;
+    background-color: darkseagreen;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+.union {
+    color: orangered;
+    background-color: chartreuse;
+}
+
+.capital {
+    color: darkgray;
+    background-color: midnightblue;
+}
+
+.funfact {
+    text-align: center;
+    background-color: goldenrod;
+    text-decoration: underline;
+    text-decoration-style:  double;
+}
+
+.postal {
+    background-color: cyan;
+}
+
+.dallake {
+    margin-left: 350px;
+}
+
+.footer {
+    color: white;
+    background-color: darkgoldenrod;
+    text-align: center;
+}
