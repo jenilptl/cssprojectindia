@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Incredible India
 
 A static web project showcasing the diversity, beauty, and rich heritage of India. This project explores Indian culture, landmarks, cuisine, and more through interactive web pages.
@@ -28,3 +29,6 @@ A static web project showcasing the diversity, beauty, and rich heritage of Indi
 
 ---
 *Created as part of a Web Design Project.*
+=======
+# cssprojectindia
+>>>>>>> 767bf7d8d8f77d09e4fda8f29a99664ef5c0dc85
