@@ -2,7 +2,7 @@
     background-color: rgb(129, 197, 129);
     position: fixed;
     top: 5px;
-    width: 1210px;
+    width: 100%;
 }
 
 .navbar ul{
@@ -26,7 +26,6 @@
     text-decoration: underline;
     text-decoration-style: double;
 }
-x
 .inquiry {
     color: rgb(240, 171, 87);
     background-color: rgb(44, 185, 228);
